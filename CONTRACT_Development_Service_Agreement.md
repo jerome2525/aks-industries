@@ -5,23 +5,22 @@ AKS Industries App
 
 PARTIES
 
-Developer: AKS Industries
+Developer (service provider building the Application):
+Name: _________________________________________
+Address: _________________________________________
+Email: _________________________________________
+
+Client: AKS Industries (owner of the Application and business)
 Address: _________________________________________
 Email: _________________________________________
 Authorized signatory: _________________________________________
-
-Client:
-Name: _________________________________________
-Business: _________________________________________
-Address: _________________________________________
-Email: _________________________________________
 
 Effective Date: _________________________________________
 
 
 1. SCOPE OF WORK
 
-The Developer agrees to design, develop, and deliver a Progressive Web Application (PWA) for the Client's socks manufacturing and store operations, as described in the Project Plan entitled "AKS Industries and Store Operations – Project Plan (Client Proposal)" (the "Project Plan"), which is attached or referenced and forms part of this Agreement.
+The Developer agrees to design, develop, and deliver a Progressive Web Application (PWA) for the Client (AKS Industries) for its socks manufacturing and store operations, as described in the Project Plan entitled "AKS Industries and Store Operations – Project Plan (Client Proposal)" (the "Project Plan"), which is attached or referenced and forms part of this Agreement.
 
 Deliverables include, but are not limited to:
 
@@ -66,7 +65,7 @@ Phase 6 – Polish and rollout (PWA, validation, handover). Amount: PHP 21,000.0
 
 Total phase installments: PHP 126,000.00.
 
-Each installment is due within seven (7) calendar days after the Developer notifies the Client that the phase is complete and the Client has had a reasonable opportunity to review (or within a different period if agreed in writing). The Developer is not obliged to start or continue the next phase until the installment for the completed phase has been paid.
+Each installment is due within three (3) calendar days after the Developer notifies the Client that the phase is complete and the Client has had a reasonable opportunity to review (or within a different period if agreed in writing). The Developer is not obliged to start or continue the next phase until the installment for the completed phase has been paid.
 
 3.3 Method of Payment
 
@@ -154,13 +153,13 @@ Severability. If any part of this Agreement is held invalid, the rest remains in
 
 By signing below, both parties agree to the terms of this Agreement.
 
-AKS Industries (Developer):
+Developer:
 
 Signature: _________________________
 Printed name: _________________________
 Date: _________________________
 
-CLIENT:
+AKS Industries (Client):
 
 Signature: _________________________
 Printed name: _________________________
