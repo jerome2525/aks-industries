@@ -134,7 +134,7 @@ Except as stated above, the work and deliverables are provided "as is." The Deve
 
 By Client. The Client may terminate this Agreement at any time by giving written notice. The Client remains liable for (a) the 30% upfront payment if work has started, and (b) payment for all phases completed and accepted before termination.
 
-By Developer. The Developer may terminate if the Client fails to pay any due amount within fourteen (14) days after written reminder, or materially breaches this Agreement and does not cure within fourteen (14) days after written notice. Upon such termination, the Client remains liable for all amounts due for work completed.
+By Developer. The Developer may terminate if the Client fails to pay any due amount within five (5) days after written reminder, or materially breaches this Agreement and does not cure within fourteen (14) days after written notice. Upon such termination, the Client remains liable for all amounts due for work completed.
 
 Effect of termination. On termination, the Developer will deliver work product completed up to the date of termination. Section 7 (Transition and Migration), Section 8 (Intellectual Property, to the extent already paid), Section 9 (Confidentiality), Section 10 (Limitation), and this Section 11 survive termination.
 
