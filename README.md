@@ -1,4 +1,4 @@
-# Socks Manufacturing & Store Operations – Project Plan (Client Proposal)
+# AKS Industries & Store Operations – Project Plan (Client Proposal)
 
 **AKS Industries**
 

@@ -21,7 +21,7 @@ Effective Date: _________________________________________
 
 1. SCOPE OF WORK
 
-The Developer agrees to design, develop, and deliver a Progressive Web Application (PWA) for the Client's socks manufacturing and store operations, as described in the Project Plan entitled "Socks Manufacturing and Store Operations – Project Plan (Client Proposal)" (the "Project Plan"), which is attached or referenced and forms part of this Agreement.
+The Developer agrees to design, develop, and deliver a Progressive Web Application (PWA) for the Client's socks manufacturing and store operations, as described in the Project Plan entitled "AKS Industries and Store Operations – Project Plan (Client Proposal)" (the "Project Plan"), which is attached or referenced and forms part of this Agreement.
 
 Deliverables include, but are not limited to:
 
@@ -167,4 +167,4 @@ Printed name: _________________________
 Date: _________________________
 
 
-Document reference: AKS Industries – Socks Manufacturing PWA – Development and Maintenance Service Agreement
+Document reference: AKS Industries – AKS Industries PWA – Development and Maintenance Service Agreement
