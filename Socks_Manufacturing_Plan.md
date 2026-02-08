@@ -1,5 +1,7 @@
 # Socks Manufacturing & Store Operations – Project Plan (Client Proposal)
 
+**AKS Industries**
+
 This plan is written so you can share it with your client as a workflow and scope document. It is human-readable and includes workflow illustrations.
 
 ---
