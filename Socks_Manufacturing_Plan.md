@@ -245,8 +245,6 @@ Relationships: manufacturing ties to branch + phase; deliveries and sales tie to
 | **5. Dashboard**      | Reports and filters: sales, delivery vs sales per store, output vs expense per branch; basic charts. | Client sees agreed metrics and comparisons                |
 | **6. Polish**         | PWA installability, validation, UX.                                                     | Ready for rollout to employees and malls                 |
 
-You can attach rough durations (e.g. 2–3 weeks per phase) based on your team size and client timeline.
-
 ---
 
 ## 13. What to give the client
@@ -258,3 +256,11 @@ You can attach rough durations (e.g. 2–3 weeks per phase) based on your team s
 - **Section 12** – implementation phases and timeline.
 
 You can export this plan to PDF and use it as the formal proposal.
+
+---
+
+## Project timeline
+
+**Total duration: 3 months** from project kickoff to rollout.
+
+This covers all six implementation phases above, plus time for client feedback, review, and deployment. The 3‑month timeline is the agreed target for delivering the full system ready for daily use by staff.
