@@ -3,21 +3,6 @@ DEVELOPMENT AND MAINTENANCE SERVICE AGREEMENT
 AKS Industries App
 
 
-PARTIES
-
-Developer (service provider building the Application):
-Name: _________________________________________
-Address: _________________________________________
-Email: _________________________________________
-
-Client: AKS Industries (owner of the Application and business)
-Address: _________________________________________
-Email: _________________________________________
-Authorized signatory: _________________________________________
-
-Effective Date: _________________________________________
-
-
 1. SCOPE OF WORK
 
 The Developer agrees to design, develop, and deliver a Progressive Web Application (PWA) for the Client (AKS Industries) for its socks manufacturing and store operations, as described in the Project Plan entitled "AKS Industries and Store Operations – Project Plan (Client Proposal)" (the "Project Plan"), which is attached or referenced and forms part of this Agreement.
@@ -153,17 +138,27 @@ Severability. If any part of this Agreement is held invalid, the rest remains in
 
 By signing below, both parties agree to the terms of this Agreement.
 
-Developer:
+Effective Date: _________________________________________
 
+Developer (service provider building the Application):
+Name: Jerome D. Anyayahan
+Address: Maple St. Metropolis East groove kanluran mayao lucena city Quezon Ph
+Email: emorej.enela@gmail.com
 Signature: _________________________
-Printed name: _________________________
 Date: _________________________
 
 AKS Industries (Client):
-
+Name: Allin Santiago
+Address: 1835 J. Bocobo Street Malate Manila PH
+Email: allinsantiago@gmail.com
 Signature: _________________________
-Printed name: _________________________
 Date: _________________________
 
 
 Document reference: AKS Industries – AKS Industries PWA – Development and Maintenance Service Agreement
+
+
+---
+For Google Docs (fillable fields): After pasting this contract into Google Docs, you can add real text boxes so the client can click and type easily. Select the signature block (Section 13), then use Insert → Table → Create a 2-column table. Put each label (e.g. "Name:", "Address:") in the left column and leave the right column empty—those cells become clickable boxes for typing. Repeat for Developer and Client blocks. You can remove this note before sending.
+
+https://docs.google.com/document/d/1mo5BvRBXgmpd2h7GQh4DhM8MNpzX1VvwkOBwZo-OUww/edit?usp=sharing
