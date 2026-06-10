@@ -21,34 +21,34 @@ Project timeline. The target completion period is three (3) months from kickoff,
 
 2. PROJECT PRICE
 
-The total fixed price for the development of the Application (the "Project Price") is One Hundred Eighty Thousand Philippine Pesos (PHP 180,000.00), excluding hosting, domain, and ongoing maintenance as set out below.
+The total fixed price for the development of the Application (the "Project Price") is One Hundred Fifty Thousand Philippine Pesos (PHP 150,000.00), excluding hosting, domain, and ongoing maintenance as set out below.
 
 
 3. PAYMENT TERMS
 
 3.1 Initial Payment (Upfront)
 
-Thirty percent (30%) of the Project Price shall be paid by the Client to the Developer before development work begins: PHP 54,000.00, due upon signing of this Agreement (or as otherwise agreed in writing).
+Thirty percent (30%) of the Project Price shall be paid by the Client to the Developer before development work begins: PHP 45,000.00, due upon signing of this Agreement (or as otherwise agreed in writing).
 
 This upfront payment is non-refundable and secures the Developer's commitment and project slot.
 
 3.2 Phase-Based Installments
 
-The remaining seventy percent (70%) of the Project Price, PHP 126,000.00, shall be paid in installments tied to the completion of each implementation phase:
+The remaining seventy percent (70%) of the Project Price, PHP 105,000.00, shall be paid in installments tied to the completion of each implementation phase:
 
-Phase 1 – Setup and auth; admin: branches, stores, materials, products. Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 1.
+Phase 1 – Setup and auth; admin: branches, stores, materials, products. Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 1.
 
-Phase 2 – Barcode generation (view/print per product). Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 2.
+Phase 2 – Barcode generation (view/print per product). Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 2.
 
-Phase 3 – Manufacturing (4-phase flow per branch). Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 3.
+Phase 3 – Manufacturing (4-phase flow per branch). Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 3.
 
-Phase 4 – Stores (delivery and sales, barcode scan). Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 4.
+Phase 4 – Stores (delivery and sales, barcode scan). Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 4.
 
-Phase 5 – Dashboard (reports, filters, charts). Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 5.
+Phase 5 – Dashboard (reports, filters, charts). Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 5.
 
-Phase 6 – Polish and rollout (PWA, validation, handover). Amount: PHP 21,000.00. Due upon completion and acceptance of Phase 6.
+Phase 6 – Polish and rollout (PWA, validation, handover). Amount: PHP 17,500.00. Due upon completion and acceptance of Phase 6.
 
-Total phase installments: PHP 126,000.00.
+Total phase installments: PHP 105,000.00.
 
 Each installment is due within three (3) calendar days after the Developer notifies the Client that the phase is complete and the Client has had a reasonable opportunity to review (or within a different period if agreed in writing). The Developer is not obliged to start or continue the next phase until the installment for the completed phase has been paid.
 
